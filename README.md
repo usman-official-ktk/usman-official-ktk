@@ -1,16 +1,116 @@
-### Hi there 👋
+# Hi there, I'm Muhammad usman
 
-<!--
-**usman-official-ktk/usman-official-ktk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer | Front end Web Developer | React JS Developer
 
-Here are some ideas to get you started:
+- 📚 Building my self from reading books and new things
+- 🔭 I’m currently working as a Front end Web Developer
+- 🌱 I’m currently learning Nodejs, Angular, React Js.
+- 🖥️ working my way towards learning more about software deployment Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
+<h3> Frontend </h3>
+<table width="100">
+<tr>
+       <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/React.png" width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/angular.png" width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/javascript.png" width="100">
+    </td>
+     <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/html.png" width="100">
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/css.png" width="100" >
+    </td>
+        <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/bootstrap.png" width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/ant-design.png" width="100">
+    </td>
+</tr>       
+</table>
+</br>
+
+<h3> Backend </h3>
+<table width="100">
+<tr>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/nodejs.png" width="100" >
+    </td>
+    
+</tr>
+</table>
+</br>
+
+<h3> Mobile </h3>
+<table width="100">
+<tr>
+    <td align='center' width="300">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/react-native.png" width="250" >
+    </td>
+</tr>
+</table>
+
+
+</br>
+
+<h3> Project Management </h3>
+<table width="100">
+<tr>
+    <td align='center' width="300">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/jira.png" width="250" >
+    </td>
+       <td align='center' width="300">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/trello.png" width="250" >
+    </td>
+</tr>
+</table>
+
+
+</br>
+
+<h3> Database </h3>
+<table width="100">
+<tr>
+      <td align='center' width="200">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/mysql.png" width="250" >
+    </td>
+        <td align='center' width="200">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/firebase.png" width="250" >
+    </td>
+  
+</tr>
+</table>
+
+</br>
+
+<h3> Frameworks </h3>
+<table width="100">
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/nextjs.svg" width="250" >
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/TypeScript.png" width="250" >
+    </td>
+   
+</tr>
+
+</table>
+
+</br>
+
+<h3> CMS </h3>
+<table width="100">
+<tr>
+    <td align='center' width="250">
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/wordpress.png" width="250" >
+    </td>
+</tr>
+</table>
+</br>
