@@ -12,7 +12,7 @@
 <table width="100">
 <tr>
        <td align='center' width="150" height="150">
-        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/React.png" width="100" >
+        <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/react.png" width="100" >
     </td>
     <td align='center' width="150" height="150">
         <img src="https://github.com/usman-official-ktk/usman-official-ktk/blob/main/images/angular.png" width="100" >
